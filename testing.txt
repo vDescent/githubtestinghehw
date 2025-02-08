@@ -1,1 +1,3 @@
 - testing pertama txt
+- Testing commit kedua testing.txt
+- Dummy delete test
